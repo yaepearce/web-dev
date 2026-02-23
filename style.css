@@ -1,0 +1,27 @@
+/*comment here*/
+body{
+  font-family:Times New Roman;hover:19px
+}
+        p, h1, h2 {
+          color:teal;
+}
+
+        a {
+          color:purple;
+}
+
+        a:hover {
+          color:lightblue;
+}
+
+        ul li{
+          font-style: italic;
+}
+
+        .int-link, ol p {
+          font-weight: bolder;
+}
+
+#mail-link {
+  color:blue;
+}
