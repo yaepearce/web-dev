@@ -1,0 +1,55 @@
+/*comment here*/
+body{
+  font-family:Times New Roman;hover:19px
+}
+        p, h1, h2 {
+          color:black;
+}
+ 
+div.main-content{
+  margin:0px 10%;
+  background-color:rgba(0, 0, 0, 0.5)
+}
+
+#bg-img{
+  position:fixed;
+  top:0px;
+  z-index:-1;
+  width: 100vw;
+  height: 100vh;
+  opacity:0.7;
+}
+
+
+h1{
+  background-color:lightpink;
+  width: 50%;
+  margin:5px auto;
+  text-align:center;
+  text-shadow:2px 3px white;
+  border-radius:5px;
+  border:solid 3px blue;
+  
+}
+        a {
+          color:purple;
+}
+
+        a:hover {
+          color:lightblue;
+}
+
+        ul li{
+          font-style: italic;
+}
+
+        .int-link, ol p {
+          font-weight: bolder;
+}
+
+#mail-link {
+  color:darkblue;
+}
+
+
+
