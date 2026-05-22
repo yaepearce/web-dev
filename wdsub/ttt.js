@@ -3,6 +3,7 @@ let winnerText = document.querySelector("#game-over p");
 let squareArr = document.querySelectorAll(".ttt-square");
 let currentPlayer = "x";
 
+elem.innerHTML = "<link rel='stylesheet' href='https://yaepearce.github.io/web-dev/ttt.css'>"
 
 for (const elem of squareArr ) {
   elem.addEventListener("click", (event) => drawSymbol(event))
